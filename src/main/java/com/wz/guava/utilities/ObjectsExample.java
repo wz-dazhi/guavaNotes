@@ -8,12 +8,12 @@ import java.util.Calendar;
 /**
  * @projectName: Guava
  * @package: com.wz.guava.utilities
- * @className: ObjectsTest
+ * @className: ObjectsExample
  * @description:
  * @author: Zhi Wang
  * @createDate: 2018/7/6 20:41
  **/
-public class ObjectsTest {
+public class ObjectsExample {
 
     static class Guava {
         private String manufacture;
